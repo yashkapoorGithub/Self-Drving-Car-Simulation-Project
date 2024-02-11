@@ -2,10 +2,8 @@
 
 Self-Driving Car Simulator with CNN :
 This project implements a self-driving car simulator using the Udacity Car Simulator and a Convolutional Neural Network (CNN) for autonomous navigation. It allows you to train and test your own self-driving algorithms in a variety of simulated environments.
- 
--> Utilizes the Udacity Car Simulator for realistic and diverse scenarios.
--> Leverages a CNN architecture for perception and control learning.
--> Open-source and modular design for customization and community contributions.
+This project utilizes the Udacity Car Simulator for realistic and diverse scenarios and leverages a CNN architecture for perception and control learning.
+
 
 Getting Started:
 
@@ -18,6 +16,6 @@ Getting Started:
 
 Features:
 
-Train on various environmental settings.
-Customize the CNN architecture for different learning tasks.
-Visualize and analyze training progress and performance.
+1. Train on various environmental settings.
+2. Customize the CNN architecture for different learning tasks.
+3. Visualize and analyze training progress and performance.
